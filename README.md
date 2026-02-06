@@ -1,5 +1,5 @@
 # komikku---OverLang
-en este código aun en la beta, solo se unió el código fuente de "komikku" más mi otro repositorio para brindar una traducción en tiempo real del contenido sin una app externa, mejorando la experencia del usurio.
+en este código aun en la beta, solo se unió el código fuente de "komikku" más mi repositorio "OverLang" para brindar una traducción en tiempo real del contenido sin una app externa, mejorando la experencia del usurio.
 
 
 LINK oficial del repositorio original - https://github.com/komikku-app/komikku
